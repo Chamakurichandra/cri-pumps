@@ -73,6 +73,11 @@ flex-direction: row;
   margin: auto;
   height: 1px;
 }
+.para-1{
+  width: 95%;
+  margin: auto;
+  text-align:center;
+}  
 
 /* // Medium devices (tablets, 768px and up) */
 @media (max-width: 991.98px) { 
@@ -100,19 +105,11 @@ flex-direction: row;
     justify-content:center;
     padding: 1em 0 1em 2em;
     
-  }
-.para-1{
-  width: 90%;
-  margin: auto;
-}  
+  } 
   .hr{
     background-color: red;
     width: 90%;
     margin: auto;
     height: 1px;
-    
-  
-  
-
   }
  }
