@@ -95,6 +95,14 @@ flex-direction: row;
     padding: 1em 0 1em 2em;
     
   }
-  
-  
+.para-1{
+  width: 90%;
+  margin: auto;
+}  
+  .hr{
+    background-color: red;
+    width: 90%;
+    margin: auto;
+    height: 2px;
+  }
  }
