@@ -63,7 +63,10 @@ flex-direction: row;
   text-align: center;
   margin: auto;
 }
-
+.red{
+  color:rgb(236, 50, 55);
+  font-weight: bolder;
+}
 
 /* // Medium devices (tablets, 768px and up) */
 @media (max-width: 991.98px) { 

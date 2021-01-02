@@ -19,16 +19,16 @@ export default class App extends Component {
               <li><p>C.R.I. is the highest contributor in the country for the projects of EESL (Energy Efficiency Services Limited) to replace the old inefficient pumps with 5 Star rated energy efficient smart pumps with IoT enabled control panel.</p></li>
             </ul>
             <img className="images-2" src={Image2} alt=""></img>
-            <div>Government of India has awarded the "National Energy Conservation Award 2018". Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.</div>
+            <div>Government of India has awarded the "National Energy Conservation Award 2018". Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha &#38; Shri. Raj Kumar Singh, Honorable Minister of State.</div>
             </div>
         </div>
         <div className="para"><p>INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION OF POWER FOR THE NATION.</p></div>
         <div style={{textAlign: "center"}}><img className="images-1" src={Image3} alt=""></img></div>
-        <div className="valves" style={{width:"90%",textAlign:"center"}}>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors </div>
+        <div className="valves">Valves - Pumps - Pipes - IoT Drives &#38; Controllers - Wires &#38; Cables - Solar Systems - Motors </div>
       <hr style={{backgroundColor:"red",margin:"1em 0.8em"}}></hr>
       <div style={{textAlign:"center"}}>
         <b>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</b>
-        <div style={{margin:"1em auto",width:"90%"}}>CHEMICALS & PROCESS POWER WATER & WASTE WATER OILS & GAS PHARMA SUGARS & DISTILLERIES PAPER & PULP MARINE & DEFENCE METAL & MINING FOOD & BEVERAGE PETROCHEMICAL & REFINERIES SOLAR BUILDING HVAC FIRE FIGHTING AGRICULTURE & RESIDENTIAL</div>
+        <div style={{margin:"1em auto",width:"90%"}}>CHEMICALS &#38; PROCESS <span className="red">|</span> POWER <span className="red">|</span> WATER &#38; WASTE WATER <span className="red">|</span> OILS &#38; GAS  <span className="red">|</span> PHARMA  <span className="red">|</span> SUGARS &#38; DISTILLERIES <span className="red">|</span> PAPER &#38; PULP <span className="red">|</span> MARINE &#38; DEFENCE <span className="red">|</span>  METAL &#38; MINING <span className="red">|</span> FOOD &#38; BEVERAGE <span className="red">|</span> PETROCHEMICAL &#38; REFINERIES <span className="red">|</span> SOLAR <span className="red">|</span> BUILDING  <span className="red">|</span> HVAC <span className="red">|</span> FIRE FIGHTING <span className="red">|</span> AGRICULTURE &#38; RESIDENTIAL</div>
         </div>
         <div className="footer">
           <div className="ft"><i className="fa fa-phone-alt icons"></i> Toll free 1800 200 1234</div>
