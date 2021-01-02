@@ -24,7 +24,7 @@ export default class App extends Component {
         </div>
         <div className="para"><p>INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION OF POWER FOR THE NATION.</p></div>
         <div style={{textAlign: "center"}}><img className="images-1" src={Image3} alt=""></img></div>
-        <div style={{margin:"auto",width:"90%"}}>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors </div>
+        <div className="valves" style={{width:"90%",textAlign:"center"}}>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors </div>
       <hr style={{backgroundColor:"red",margin:"1em 0.8em"}}></hr>
       <div style={{textAlign:"center"}}>
         <b>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</b>

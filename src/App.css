@@ -11,7 +11,7 @@ flex-direction: row;
 
 }
 .all{
- background-color:antiquewhite;
+ 
  font-family: 'Times New Roman', Times, serif;
  
  
@@ -32,7 +32,7 @@ flex-direction: row;
   padding: 0.5em;
 }
 .footer{
-  background-color:rgb(255, 0, 43);
+  background-color:rgb(236, 50, 55);
   display: flex;
  color: white;
   text-align: center;
@@ -58,7 +58,11 @@ flex-direction: row;
   text-align: center;
   padding: 2em 0;
 }
-
+.valves{
+  width: 90%;
+  text-align: center;
+  margin: auto;
+}
 
 
 /* // Medium devices (tablets, 768px and up) */
@@ -82,14 +86,12 @@ flex-direction: row;
   margin-right: 0.5em;
   }
   .footer{
-    background-color:rgb(255, 0, 43);
-    display: flex;
-   color: white;
    flex-direction: column;
     align-items: flex-start;
     justify-content:center;
     padding: 1em 0 1em 2em;
     
   }
+  
   
  }
