@@ -25,9 +25,9 @@ export default class App extends Component {
         <div className="para"><p>INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION OF POWER FOR THE NATION.</p></div>
         <div style={{textAlign: "center"}}><img className="images-1" src={Image3} alt=""></img></div>
         <div className="valves">Valves - Pumps - Pipes - IoT Drives &#38; Controllers - Wires &#38; Cables - Solar Systems - Motors </div>
-      <div className="hr" style={{margin:"1em 0.8em"}}></div>
-      <div style={{textAlign:"center"}}>
-        <b className="para-1">C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</b>
+      <div className="hr" style={{margin:"1em auto"}}></div>
+      <div className="para-1" style={{textAlign:"center"}}>
+        <b >C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</b>
         <div style={{margin:"1em auto",width:"90%"}}>CHEMICALS &#38; PROCESS <span className="red">|</span> POWER <span className="red">|</span> WATER &#38; WASTE WATER <span className="red">|</span> OILS &#38; GAS  <span className="red">|</span> PHARMA  <span className="red">|</span> SUGARS &#38; DISTILLERIES <span className="red">|</span> PAPER &#38; PULP <span className="red">|</span> MARINE &#38; DEFENCE <span className="red">|</span>  METAL &#38; MINING <span className="red">|</span> FOOD &#38; BEVERAGE <span className="red">|</span> PETROCHEMICAL &#38; REFINERIES <span className="red">|</span> SOLAR <span className="red">|</span> BUILDING  <span className="red">|</span> HVAC <span className="red">|</span> FIRE FIGHTING <span className="red">|</span> AGRICULTURE &#38; RESIDENTIAL</div>
         </div>
         <div className="footer">

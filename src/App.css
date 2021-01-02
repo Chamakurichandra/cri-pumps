@@ -69,7 +69,7 @@ flex-direction: row;
 }
 .hr{
   background-color: red;
-  width: 90%;
+  width:90%;
   margin: auto;
   height: 1px;
 }
@@ -110,5 +110,9 @@ flex-direction: row;
     width: 90%;
     margin: auto;
     height: 1px;
+    
+  
+  
+
   }
  }
