@@ -67,6 +67,12 @@ flex-direction: row;
   color:rgb(236, 50, 55);
   font-weight: bolder;
 }
+.hr{
+  background-color: red;
+  width: 90%;
+  margin: auto;
+  height: 1px;
+}
 
 /* // Medium devices (tablets, 768px and up) */
 @media (max-width: 991.98px) { 
@@ -103,6 +109,6 @@ flex-direction: row;
     background-color: red;
     width: 90%;
     margin: auto;
-    height: 2px;
+    height: 1px;
   }
  }
